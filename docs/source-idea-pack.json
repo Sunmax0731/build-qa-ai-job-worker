@@ -1,0 +1,38 @@
+{
+  "product": "build-qa-ai-job-worker",
+  "sourceRank": {
+    "rank": 47,
+    "tier": "P2",
+    "score": 56,
+    "domain": "IoT",
+    "ideaNo": 11,
+    "ideaName": "ビルド・検証・AIジョブワーカー",
+    "repositoryName": "build-qa-ai-job-worker",
+    "publicTarget": "GitHub Release / 自宅LAN",
+    "priorityReason": "元100件下位候補。常時実行基盤は価値があるが、安全な実行境界が必要。"
+  },
+  "initialRepositoryReadme": "not-found-at-start",
+  "exactCreatedIdeaPath": "D:\\AI\\IoT\\created_idea_011_build-qa-ai-job-worker",
+  "exactZipPath": "D:\\AI\\IoT\\created_idea_011_build-qa-ai-job-worker\\idea_011_build-qa-ai-job-worker.zip",
+  "exactCreatedIdeaPathExists": true,
+  "exactZipExists": true,
+  "fallbackSearchUsed": false,
+  "fallbackSearchResults": [],
+  "zipEntriesChecked": [
+    "metadata.json",
+    "START_PROMPT.md",
+    "README.md",
+    "01_REQUIREMENTS.md",
+    "03_DESIGN.md",
+    "04_IMPLEMENTATION_PLAN.md",
+    "05_TEST_PLAN.md",
+    "06_RELEASE_CHECKLIST.md",
+    "02_SPECIFICATION.md"
+  ],
+  "expectedZipEntriesPresent": true,
+  "metadataRepositoryName": "build-qa-ai-job-worker",
+  "metadataIdea": "ビルド・検証・AIジョブワーカー",
+  "metadataMatchesRepository": true,
+  "markdownCopyPolicy": "Formal docs are regenerated in normal Japanese from NON_PICKUP row, metadata, and domain docs. ZIP markdown is checked but not copied verbatim.",
+  "mojibakePolicy": "Generated docs are checked by code point based scanner."
+}

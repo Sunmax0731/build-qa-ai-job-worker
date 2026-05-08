@@ -1,0 +1,20 @@
+{
+  "name": "build-qa-ai-job-worker",
+  "version": "0.1.0-alpha.1",
+  "private": false,
+  "type": "module",
+  "description": "ビルド・検証・AIジョブワーカー closed alpha prototype",
+  "scripts": {
+    "test": "node scripts/validate.mjs && node scripts/web-smoke.mjs",
+    "validate": "node scripts/validate.mjs",
+    "smoke:web": "node scripts/web-smoke.mjs",
+    "serve": "node scripts/serve.mjs",
+    "cli": "node src/cli/index.mjs"
+  },
+  "keywords": [
+    "IoT",
+    "closed-alpha",
+    "qcds"
+  ],
+  "license": "MIT"
+}
